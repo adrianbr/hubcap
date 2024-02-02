@@ -157,6 +157,9 @@
     "dbt-msft": [
         "tsql-utils"
     ],
+    "dlt-hub": [
+        "dbt_ga4"
+    ],
     "dwreeves": [
         "dbt_linreg"
     ],
